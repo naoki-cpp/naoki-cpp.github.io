@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Welcome"
+title:  "2021-05-31"
 date:   2021-05-31 02:33:00 +0900
-categories: jekyll update
+categories: diary
 ---
 
-## 今日やったこと
+# 今日やったこと
 - イオン工学の課題
 - 論文[Optomechanical Dark Mode](https://doi.org/10.1126/science.1228370)を読んだ
 - オペレーティングシステム概論の課題をやった
-- Twitterをやった
-## ToDo
+- Twitterで時間を浪費した
+
+# ToDo
 - 研究
 - [Dynamical Backaction Magnomechanics](https://arxiv.org/abs/2104.11218)を読む
 - この日記で何を書くかはこれから考えていこうと思います
